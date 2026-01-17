@@ -127,8 +127,7 @@ This project develops an **intelligent system** that learns from historical patt
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YOUR-USERNAME/flood-prediction-ai.git
-cd flood-prediction-ai
+[git clone (https://github.com/nikiiestacb/flood-prediction-ai.git)]
 ```
 
 2. **Create virtual environment**
